@@ -1,7 +1,7 @@
 {
   "name": "mox-lorem-ipsum",
-  "version": "0.1.1",
-  "description": "Web component to create paragraphs containing blind text.",
+  "version": "1.0.0",
+  "description": "Web component to create paragraphs containing filler text.",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",
   "types": "dist/types/components.d.ts",
