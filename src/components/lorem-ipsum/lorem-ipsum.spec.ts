@@ -7,7 +7,7 @@ describe('lorem-ipsum', () => {
   });
 
   describe('rendering', () => {
-    let element: HTMLMyComponentElement;
+    let element: HTMLElement;
     let testWindow: TestWindow;
     beforeEach(async () => {
       testWindow = new TestWindow();
