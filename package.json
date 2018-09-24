@@ -1,6 +1,6 @@
 {
   "name": "mox-lorem-ipsum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web component to create paragraphs containing filler text.",
   "module": "dist/esm/index.js",
   "main": "dist/index.js",
